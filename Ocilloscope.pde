@@ -1,11 +1,8 @@
 /*
  * Oscilloscope
- * Gives a visual rendering of analog pin 0 in realtime.
+ * Gives a visual rendering of all analog pins in realtime.
  * 
- * This project is part of Accrochages
- * See http://accrochages.drone.ws
- * 
- * (c) 2008 Sofian Audry (info@sofianaudry.com)
+ * (c) 2013 Martin Silberkasten (martosilber@yahoo.com.ar)
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
